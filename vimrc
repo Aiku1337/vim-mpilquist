@@ -25,5 +25,6 @@ Plugin 'Townk/vim-autoclose'
 Plugin 'vim-scripts/camelcasemotion'
 Plugin 'kien/rainbow_parentheses.vim'
 Plugin 'Shougo/neocomplcache'
+Plugin 'edkolev/tmuxline.vim'
 
 filetype plugin indent on
